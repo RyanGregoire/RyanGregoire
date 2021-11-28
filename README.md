@@ -4,11 +4,7 @@
 - 🌱 I’m currently learning ...
 -         HTML CSS JS
 - 💞️ I’m looking to collaborate on ...
+- Web Stuff in the Fture I want to Learn React Vue MongoDB MySQL REST API
 - 📫 How to reach me ...
 - Discord: _RyanWeb
 - Twitter:  _RyanWeb
-
-<!---
-RyanGregoire/RyanGregoire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
